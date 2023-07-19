@@ -1,0 +1,42 @@
+span.MuiBadge-badge.MuiBadge-standard.MuiBadge-anchorOriginTopRight.MuiBadge-anchorOriginTopRightRectangular.MuiBadge-overlapRectangular.css-fvc8ir-MuiBadge-badge {
+    color: white;
+    min-width: 75px !important;
+    background-color: black;
+    font-size: 10px;
+  }
+  
+  .css-1999db7-MuiCardMedia-root {
+    background-size: contain !important;
+  }
+  
+  .css-46bh2p-MuiCardContent-root:last-child {
+    padding-bottom: 0 !important;
+  }
+  
+  .css-1r77xbj-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: black !important;
+  }
+  
+  svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-aq8pb7-MuiSvgIcon-root {
+    margin-top: -83px !important;
+    z-index: 999999999999 !important;
+    /* color: white; */
+  }
+  
+  .css-1m9128y {
+    margin-top: 0 !important;
+  }
+  
+  .css-bbreus-MuiButtonBase-root-MuiIconButton-root {
+    color: black !important;
+  }
+  
+  button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-color: black!important;
+    color: #fff;
+    &:hover {
+      background-color: black!important;
+      color: white;
+    }
+  }
+  

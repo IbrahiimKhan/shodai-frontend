@@ -1,0 +1,17 @@
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-color: black!important;
+    color: #fff;
+    &:hover {
+      background-color: black!important;
+      color: white;
+    }
+  }
+  .form.wrapper {
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 23px 20px;
+    
+    margin: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
