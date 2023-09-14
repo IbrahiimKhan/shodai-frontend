@@ -1,4 +1,4 @@
-Shodai Ecommerce Front End
+Shodai Ecommerce Web App  (Front End)
 
 An Ecommerce application with dedicated admin panel based built with React, Redux, Typescript, and Material UI.
 
